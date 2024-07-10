@@ -1,0 +1,51 @@
+body {
+  margin: 5%;
+  background: rgb(219, 243, 219);
+}
+
+form {
+  margin: 40px;
+
+ 
+}
+
+label {
+  display: block;
+  margin-top: 10px;
+}
+
+input {
+  display: block;
+  padding: 5px;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  width: 200px;
+  max-width: 100%;
+  box-sizing: border-box;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: blueviolet;
+  color: rgb(219, 243, 219);
+  border: none;
+  cursor: pointer;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+th,
+td {
+  border: 1px solid rgb(185, 185, 238);
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background-color: aquamarine;
+  color: white;
+}
