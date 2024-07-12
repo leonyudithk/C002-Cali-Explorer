@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+    background: rgb(247, 224, 224);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cards-container{
+    background-color: white;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    display: flex;
+    margin: 20px;
+
+}
+
+#petForm {
+    margin: 20px ;
+}
+
+input{
+    padding: 10px;
+    margin: 8px;
+}
+
+.card {
+    padding: 10px;
+    margin: 10px;
+    background-color: rgb(248, 248, 178);
+    color: black;
+    border: none;
+    border-radius: 8px;
+}
+
+#guardar {
+    padding: 10px;
+    background-color: aquamarine;
+    border-radius: 8px;
+
+}
+
+button{
+    cursor: pointer;
+}
+
